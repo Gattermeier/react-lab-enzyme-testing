@@ -1,8 +1,6 @@
 # React Unit Testing with Lab, Code, Enzyme & Sinon
 
 [![Dependency Status](https://david-dm.org/Gattermeier/react-lab-enzyme-testing.svg)](https://david-dm.org/Gattermeier/react-lab-enzyme-testing)
-
-
 [![devDependency Status](https://david-dm.org/Gattermeier/react-lab-enzyme-testing/dev-status.svg)](https://david-dm.org/Gattermeier/react-lab-enzyme-testing#info=devDependencies)
 
 
